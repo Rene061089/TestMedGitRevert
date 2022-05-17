@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Hello World!");
         System.out.println("Det hele virker!");
+        System.out.println("Det nu virker det hele igen!!");
     }
 }
