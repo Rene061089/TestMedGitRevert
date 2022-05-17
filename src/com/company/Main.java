@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Det hele virker!");
         System.out.println("Det hele Virker Stadig!");
+        System.out.println("Der er intet som virker længere!!!");
+
     }
 }
